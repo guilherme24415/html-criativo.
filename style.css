@@ -1,8 +1,4 @@
-html, body {
-    margin: 0;
-    padding: 0;
-  }
-  canvas {
-    display: block;
-  }
-  
+header{
+    background-color: #424e61 ;
+    color: white;
+}
